@@ -15,5 +15,13 @@ a:link {
 
 a:visited {
     color: white;
-    
+
+}
+
+.table {
+    margin: auto; 
+}
+
+th, td {
+    padding: 10px;
 }
